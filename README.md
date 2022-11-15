@@ -1,10 +1,10 @@
 # FederatedLearning-AMC-ClassImbalance
 
-#Matlab code
+# Matlab code
 
 generate modulation signal samples, whose SNR ranges from -10dB to 10dB
 
-#Python code
+# Python code
 
 FL-AMC
 
